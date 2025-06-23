@@ -1,0 +1,1 @@
+{"gender": {"female": 0, "male": 1, "other": 2}, "education": {"PhD": 0, "bachelor": 1, "high school": 2, "master": 3}, "income": {"high": 0, "low": 1, "medium": 2}, "marital_status": {"divorced": 0, "married": 1, "single": 2, "widowed": 3}}
