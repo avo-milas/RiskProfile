@@ -76,9 +76,9 @@
 
 **Источники данных по распределениям признаков**
 
-- «Профиль инвестора в России», 2025
-- «Determinants of Private Investors’ Behavior on Russian Stock Market», 2020
-- «The Impact of Financial Literacy on the Choice of Financial Instruments by Private Investors in Russian Conditions», 2025
+- [«Determinants of Private Investors’ Behavior on Russian Stock Market», 2020](https://www.researchgate.net/publication/342400200_Determinants_of_Private_Investors'_Behavior_on_Russian_Stock_Market)
+- [«Профиль инвестора в России», 2025](https://www.tbank.ru/invest/social/profile/basebel/52cb8329-7d30-4f5f-aec0-764e4e0ed4a0/)  
+- [«The Impact of Financial Literacy on the Choice of Financial Instruments by Private Investors in Russian Conditions», 2024](https://www.researchgate.net/publication/385475780_The_Impact_of_Financial_Literacy_on_the_Choice_of_Financial_Instruments_by_Private_Investors_in_Russian_Conditions)  
 
 
 **Финальный датасет** содержит:
